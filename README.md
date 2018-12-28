@@ -2,6 +2,9 @@
 Simple use SVG icons.
 This site was built using [Animate CSS](https://github.com/daneden/animate.css) & [Twitter Bootstrap](https://github.com/twbs/bootstrap)
 
+## Preview
+![Recordit GIF](http://recordit.co/pCClzPhbN9)
+
 ## Installing
 > Make sure you installed node js before
 ```
