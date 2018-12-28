@@ -5,7 +5,7 @@ This site was built using [Animate CSS](https://github.com/daneden/animate.css) 
 ## Preview
 ![Recordit GIF](http://g.recordit.co/pCClzPhbN9.gif)
 
-** How to load svg easily in html **
+**How to load svg easily in html**
 ![Recordit GIF](http://g.recordit.co/tfhb6szMlT.gif)
 
 ## Installing
